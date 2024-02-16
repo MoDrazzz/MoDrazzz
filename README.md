@@ -3,7 +3,7 @@
 </p>
 
 # Hello 🖐️
-I am a 17-year-old front-end developer based in Bielsko-Biała, Poland. My programming journey started in October 2018 and continues to this day. Since then, programming has been my hobby, and I've gone through "the desert of despair”, coding from time to time. However, something changed in October 2022, and programming became my passion. I improved my React skills significantly. Now, as I continue to improve, I am looking for opportunities to grow.
+I am a 18-year-old front-end developer based in Bielsko-Biała, Poland. My programming journey started in October 2018 and continues to this day. Since then, programming has been my hobby, and I've gone through "the desert of despair”, coding from time to time. However, something changed in October 2022, and programming became my passion. I improved my React skills significantly. Now, as I continue to improve, I am looking for opportunities to grow.
 
 The project I currently work on is **[TeamGuru](https://github.com/MoDrazzz/teamguru)**.
 ***
